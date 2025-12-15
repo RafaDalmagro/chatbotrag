@@ -7,6 +7,9 @@ langchain-text-splitters==0.2.2
 # Vector store
 langchain-chroma==1.1.2
 
+# Docling
+docling==2.64.1
+
 # Utilidades
 python-dotenv
 
