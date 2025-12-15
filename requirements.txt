@@ -1,17 +1,9 @@
-# LangChain, dependencias relacionadas
-langchain-core==0.2.38
-langchain-community==0.2.19
-langchain-openai==0.1.23
-langchain-text-splitters==0.2.2
-
-# Vector store
-langchain-chroma==1.1.2
-
-# Docling
-docling==2.64.1
-
-# Utilidades
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+chromadb
 python-dotenv
-
-# Loaders de documentos (Markdown)
+unstructured
 unstructured[md]
